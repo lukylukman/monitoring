@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../dbsihph"
+        },
+        {
+            "path": "../Sirine-Remake"
+        },
+        {
+            "path": "../../recruitment_SKP/catatan Meet bimbingan/example-app"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "scand_1"
+    }
+}
